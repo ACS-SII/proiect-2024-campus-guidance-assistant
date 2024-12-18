@@ -1,0 +1,103 @@
+from,to,direction
+Regie bridge,Campus Entrance - Splaiul Independentei,Cross the street.
+Campus Entrance - Splaiul Independentei,Regie bridge,Cross the street.
+Campus Entrance - Splaiul Independentei,Aula's fountains,Go straight forward for 550m.
+Aula's fountains,Campus Entrance - Splaiul Independentei,Go straight forward for 550m.
+Aula's fountains,Aula,On your right is your destination.
+Aula,Aula's fountains,In front of you is the place you are looking for; for exiting the campus go left.
+Aula's fountains,Entrance/Exit - BN building,Go straight forward for 70m.
+Entrance/Exit - BN building,Aula's fountains,Turn left and go forward for 70m.
+Entrance/Exit - BN building,BCR Politehnica,"After you enter the building, on your left side."
+BCR Politehnica,Entrance/Exit - BN building,Exit the office and turn right.
+Entrance/Exit - BN building,BCR Politehnica,"After you enter the building, on your left side."
+Entrance/Exit - BN building,BCR Politehnica,"After you enter the building, on your left side."
+Entrance/Exit - BN building,AN Spiral Stairs,Turn left and go all the way through the hallway; the stairs ar on your left side.
+AN Spiral Stairs,Entrance/Exit - BN building,Go all the way through the hallway and turn right at the other end.
+AN Spiral Stairs,AN030,"Looking at the stairs, you have to turn left and continue forqard. The classroom is on the right-side."
+AN030,AN Spiral Stairs,"Going out of the class, you must turn left and go forward to find the stairs."
+AN Spiral Stairs,AN210,"Go up the stairs to the second floor. At the end of the stairs, turn left and there is the classroom."
+AN210,AN Spiral Stairs,Get down the stairs to continue your path.
+AN Spiral Stairs,Entrance/Exit - AN building,It is the closest exit of the building.
+Entrance/Exit - AN building,AN Spiral Stairs,It is the closest staircase from the entrance. Look to your right.
+AN Spiral Stairs,Rectory Elevator,"Go through the glass doors and at the end of the hallway, on the right side you will found the elevator."
+Rectory Elevator,AN Spiral Stairs,"As you get out of the elevator, turn left and go forward. After you get pass the glass doors, you will see the stairs."
+Rectory Elevator,Rectory Caffeteria,"As you get out of the elevator, turn right and head to the bigger hallway. Turn left and in front of you is the caffeteria."
+Rectory Caffeteria,Rectory Elevator,Get out of the caffeteria and go forward for 15m. If you turn right you will find the elevator.
+Entrance/Exit - AN building,Pedestrian Cross,Go forward for 140m and the cross is on your right.
+Pedestrian Cross,Entrance/Exit - AN building,Go forward for 140m and AN building is the first building on the right side of the road.
+Pedestrian Cross,Campus Stairs (1),Go forward without crossing it for 70m. 
+Campus Stairs (1),Pedestrian Cross,Go forward for 70m. The cross is on your left.
+Pedestrian Cross,Campus Stairs (2),"Cross the road, turn to your left and continue forward. The stairs are 170m in this direction."
+Campus Stairs (2),Pedestrian Cross,Go forward for 170m. The cross is on your right. You might need to cross the road.
+Pedestrian Cross,Entrance/Exit - EI building,"If you keep the same orientation, you will get to the entrance of the building."
+Entrance/Exit - EI building,Pedestrian Cross,Keep going forward and you will see the cross.
+Campus Stairs (1),Entrance/Exit - PRECIS building (1),"After climbing the stairs, go forward for 150m. The first building on your right is ED. The second one is PRECIS."
+Entrance/Exit - PRECIS building (1),Campus Stairs (1),"After exiting the building, go slightly to your right and continue like this for 150m."
+Campus Stairs (1),Backdoor Entrance/Exit - ED building,"After climbing the stairs, go forward for 50m. The first building on your right is ED."
+Backdoor Entrance/Exit - ED building,Campus Stairs (1),"After exiting the building, go left and left once again to see the stairs. They are 50m away."
+Campus Stairs (2),Entrance/Exit - ED/EC buildings,Go forward for 60m. On your right side is EC. On your left side is ED.
+Entrance/Exit - ED/EC buildings,Campus Stairs (2),Go down the hill for 60m and you will see the stairs.
+Entrance/Exit - ED/EC buildings,EC Stairs (1),After entering the building you will see the stairs on your right.
+EC Stairs (1),Entrance/Exit - ED/EC buildings,It is the closest exit of the building.
+Entrance/Exit - ED/EC buildings,EC Stairs (2),"After entering the building, it's the second set of stairs that goes to the first floor."
+EC Stairs (2),Entrance/Exit - ED/EC buildings,It is the closest exit of the building.
+Entrance/Exit - ED/EC buildings,Backdoor Entrance/Exit - ED building,"After entering the building, go all the way to the end of the hallway."
+Backdoor Entrance/Exit - ED building,Entrance/Exit - ED/EC buildings,It is on the other end of the hallway. You should pass by the elevator and the stairs of the building.
+Entrance/Exit - ED/EC buildings,ED Elevator,"After entering the building, go forward and you will see the elevator on the right side."
+ED Elevator,Entrance/Exit - ED/EC buildings,Just go straight forward until you see the exit.
+Entrance/Exit - ED/EC buildings,ED Stairs,"After entering the building, go forward and you will see the stairs on the left side."
+ED Stairs,Entrance/Exit - ED/EC buildings,"After you went down the stairs, the exit is to the right."
+Entrance/Exit - ED/EC buildings,Entrance/Exit - PRECIS building (1),Cross the street and head to the building in front of you. It is 60m away.
+Entrance/Exit - PRECIS building (1),Entrance/Exit - ED/EC buildings,Cross the street and head to the building in front of you. It is 60m away.
+EC Stairs (1),EC105,"Pass by the stairs, you will find your classroom on your left side."
+EC105,EC Stairs (1),"When you exit EC105, go to the right in order to get to the stairs."
+EC Stairs (1),Entrance/Exit - EG building (2),Pass by the stairs and turn right. If you continue through the glass doors you will get to EG building.
+Entrance/Exit - EG building (1),EC Stairs (2),Continue forward for 200m. You will see the stairs on your left.
+EC Stairs (1),EC Caffeteria,"Go up to the first floor and turn to the right twice. If you go forward, through the glass doors, you will find the caffeteria."
+EC Caffeteria,EC Stairs (1),Go through the glass doors and you will see the stairs on your left.
+EC Stairs (2),EC105,The class is on the right side as you go towards the exit.
+EC105,EC Stairs (2),"On your left, there are the stairs."
+EC Stairs (2),EC004,"Under the stairs and to the right, there is the class you are looking for."
+EC004,EC Stairs (2),"On your right, as you exit the class EC004."
+EC Stairs (2),EC004,"Under the stairs and to the right, there is the copy-store you are looking for."
+EC004,EC Stairs (2),"On your right, as you leave the copy-store."
+EC Stairs (2),EC Caffeteria,Go upstairs and turn left on the hallway. Go through the glass doors to find the caffeteria.
+EC Caffeteria,EC Stairs (2),"On your right, and once again go to the right at the end of the hallway."
+EC Caffeteria,EG301,"Pass by the caffeteria, go upstairs to the next floor and on the right you will find the EG301 room."
+EG301,EC Caffeteria,"On your right, and once again go to the right at the end of the hallway."
+Backdoor Entrance/Exit - ED building,EF008,Go all the way throygh the small hallway and at the end of it you will find EF008 room.
+EF008,Backdoor Entrance/Exit - ED building,At the other end of the hallway is the backdoor exit of the building.
+ED Elevator,ED020,"The classroom is at the ground floor. As you look at the elevator, you should turn right and the first classroom on the right is what you are looking for."
+ED020,ED Elevator,"As you are exiting the classroom, you should turn left and after the relaxing zone, on the right, there is the elevator."
+ED Elevator,ED302,"You should go to the 3rd floor. Getting down from the elevator, go straigth forward, through the glass doors. The first classroom to the right is ED302."
+ED302,ED Elevator,"As you are exiting the classroom, you should turn left and go forward for 10m. In front of you will be the elevator."
+ED Stairs,ED302,"You should go to the 3rd floor. You should turn right and go straigth forward, through the glass doors. The first classroom to the right is ED302."
+ED302,ED Stairs,"As you are exiting the classroom, you should turn left and left once again. In front of you will be the stairs."
+Entrance/Exit - EG building (2),EG103a,Continue forward for __m. On your right you will see a staircase. Go downstaris and on your left is the EG103 room.
+EG103a,Entrance/Exit - EG building (2),Continue forward for __m. On your right you will see a staircase. Go downstaris and on your left is the EG103 room.
+Entrance/Exit - EG building (2),EG103b,Continue forward for __m. On your right you will see a staircase. Go downstaris and on your left is the EG103 room.
+EG103b,Entrance/Exit - EG building (2),Continue forward for __m. On your right you will see a staircase. Go downstaris and on your left is the EG103 room.
+Entrance/Exit - EI building,EI Stairs,After entering the building you will see the stairs on your left.
+EI Stairs,Entrance/Exit - EI building,"After riching the groud floor, the exit is to the right."
+EI Stairs,Entrance/Exit - EG building (1),"After riching the final floor, turn left and go forward until the end of the hallway. On your left is the entrance inside the EG building."
+Entrance/Exit - EG building (1),EI Stairs,Turn right and go until the end of the hallway. You will find the stairs on your right.
+Entrance/Exit - EG building (1),EG301,Go forward for ___m. I will complete this later on.
+EG301,Entrance/Exit - EG building (1),Same here.
+Entrance/Exit - EG building (1),EG103a,"Go forward for __m, until the end of the hallway. On your left, there should be a staircase, go downstairs and on the left is EG103 room."
+EG103a,Entrance/Exit - EG building (1),Go upstairs. Turn right at the hallway and go forward until the end of it.
+Entrance/Exit - EG building (1),EG103b,"Go forward for __m, until the end of the hallway. On your left, there should be a staircase, go downstairs and on the left is EG103 room."
+EG103b,Entrance/Exit - EG building (1),Go upstairs. Turn right at the hallway and go forward until the end of it.
+Entrance/Exit - PRECIS building (1),PR002,"Go forward for 5m and turn left. On your left, after the bathrooms, there is the class you are looking for."
+PR002,Entrance/Exit - PRECIS building (1),Go forward for 5m and turn right. It is the closest exit of the building.
+Entrance/Exit - PRECIS building (1),PRECIS Elevator,"Go towards the other exit of the building. If you turn left, you will find the elevators."
+PRECIS Elevator,Entrance/Exit - PRECIS building (1),"From the elevator, turn right twice and head forward to the exit."
+PRECIS Elevator,PR508,Take the elevator to the 5th floor. PR508 is right in from of the elevator.
+PR508,PRECIS Elevator,The elevator is just in front of the classroom.
+PRECIS Elevator,PRECIS Stairs,The staircase is right-sided the elevator.
+PRECIS Elevator,PRECIS Elevator,The elevator is right-sided the staircase.
+PRECIS Elevator,Entrance/Exit - PRECIS building (2),Go towards the closest exit of the building.
+Entrance/Exit - PRECIS building (2),PRECIS Elevator,The elevator (and the stairs) are 10m in front of you.
+Entrance/Exit - PRECIS building (2),Campus Entrance - Iuliu Maniu (1),Turn slightly to the left and head to the street. The entrance in the campus is 70m away. 
+Campus Entrance - Iuliu Maniu (1),Entrance/Exit - PRECIS building (2),Turn slightly to the right and head to the first building. The entrance in PRECIS building is 70m away.
+Entrance/Exit - PRECIS building (2),Campus Entrance - Iuliu Maniu (2),Turn slightly to the right and head to the street. The entrance in the campus is 280m away. 
+Campus Entrance - Iuliu Maniu (2),Entrance/Exit - PRECIS building (2),Turn to the left and head to the kast building on your left side. The entrance in PRECIS building is 280m away.

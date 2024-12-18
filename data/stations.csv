@@ -1,0 +1,44 @@
+id,name,type,x,y,z
+1,PR002,Interior,210,55,0
+2,PR508,Interior,210,50,20
+3,EC105,Interior,200,125,0
+4,EC004,Interior,190,128,0
+5,ED302,Interior,220,128,12
+6,ED020,Interior,220,110,0
+7,EF008,Interior,276,146,0
+8,EG301,Interior,205,145,4
+9,EG103a,Interior,220,175,2
+10,EG103b,Interior,220,175,2
+11,AN030,Interior,455,450,-14
+12,AN210,Interior,450,450,-7
+13,Regie bridge,Exterior,550,1163,-15
+14,Aula's fountains,Exterior,500,703,-15
+15,Aula,Exterior,480,703,-15
+16,Entrance/Exit - BN building,Exterior,400,600,-15
+17,BCR Politehnica,Interior,399,600,-15
+18,Entrance/Exit - AN building,Exterior,450,440,-15
+19,AN Spiral Stairs,Interior,453,450,variable
+20,Rectory Elevator,Interior,550,450,-12
+21,Rectory Caffeteria,Interior,550,460,4
+22,Pedestrian Cross,Exterior,292,278,-15
+23,Campus stairs (1),Exterior,282,145,variable
+24,Campus stairs (2),Exterior,215,145,variable
+25,Entrance/Exit - ED/EC buildings,Exterior,210,125,0
+26,EC Stairs (1),Interior,205,125,0
+27,EC Stairs (2),Interior,195,125,0
+28,EC Caffeteria,Interior,200,135,4
+29,EC Copy-store,Interior,192,130,0
+30,Backdoor Entrance/Exit - ED building,Exterior,257,122,0
+31,ED Elevator,Interior,250,122,variable
+32,ED Stairs,Interior,250,125,variable
+33,Entrance/Exit - PRECIS building (1),Exterior,210,60,0
+34,Entrance/Exit - PRECIS building (2),Exterior,210,40,0
+35,PRECIS Elevator,Interior,210,50,variable
+36,PRECIS Stairs,Interior,276,146,variable
+37,Campus Entrance - Iuliu Maniu (1),Exterior,0,0,0
+38,Campus Entrance - Iuliu Maniu (2),Exterior,280,0,0
+39,Campus Entrance - Splaiul Independentei,Exterior,550,1153,-15
+40,Entrance/Exit - EI building,Exterior,282,278,-15
+41,EI Stairs,Interior,282,268,variable
+42,Entrance/Exit - EG building (2),Exterior,270,268,-2
+43,Entrance/Exit - EG building (1),Exterior,200,135,-2

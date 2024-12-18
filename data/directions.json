@@ -1,0 +1,156 @@
+{
+    "directions":[
+    {"from":"Regie bridge","to":"Campus Entrance - Splaiul Independentei","direction":"Cross the street."},
+    {"from":"Campus Entrance - Splaiul Independentei","to":"Regie bridge","direction":"Cross the street."},
+
+    {"from":"Campus Entrance - Splaiul Independentei","to":"Aula's fountains","direction":"Go straight forward for 550m."},
+    {"from":"Aula's fountains","to":"Campus Entrance - Splaiul Independentei","direction":"Go straight forward for 550m."},
+
+    {"from":"Aula's fountains","to":"Aula","direction":"On your right is your destination."},
+    {"from":"Aula","to":"Aula's fountains","direction":"In front of you is the place you are looking for; for exiting the campus go left."},
+
+    {"from":"Aula's fountains","to":"Entrance/Exit - BN building","direction":"Go straight forward for 70m."},
+    {"from":"Entrance/Exit - BN building","to":"Aula's fountains","direction":"Turn left and go forward for 70m."},
+
+    {"from":"Entrance/Exit - BN building","to":"BCR Politehnica","direction":"After you enter the building, on your left side."},
+    {"from":"BCR Politehnica","to":"Entrance/Exit - BN building","direction":"Exit the office and turn right."},
+
+    {"from":"Entrance/Exit - BN building","to":"BCR Politehnica","direction":"After you enter the building, on your left side."},
+    {"from":"Entrance/Exit - BN building","to":"BCR Politehnica","direction":"After you enter the building, on your left side."},
+
+    {"from":"Entrance/Exit - BN building","to":"AN Spiral Stairs","direction":"Turn left and go all the way through the hallway; the stairs ar on your left side."},
+    {"from":"AN Spiral Stairs","to":"Entrance/Exit - BN building","direction":"Go all the way through the hallway and turn right at the other end."},
+
+    {"from":"AN Spiral Stairs","to":"AN030","direction":"Looking at the stairs, you have to turn left and continue forqard. The classroom is on the right-side."},
+    {"from":"AN030","to":"AN Spiral Stairs","direction":"Going out of the class, you must turn left and go forward to find the stairs."},
+
+    {"from":"AN Spiral Stairs","to":"AN210","direction":"Go up the stairs to the second floor. At the end of the stairs, turn left and there is the classroom."},
+    {"from":"AN210","to":"AN Spiral Stairs","direction":"Get down the stairs to continue your path."},
+    
+    {"from":"AN Spiral Stairs","to":"Entrance/Exit - AN building","direction":"It is the closest exit of the building."},
+    {"from":"Entrance/Exit - AN building","to":"AN Spiral Stairs","direction":"It is the closest staircase from the entrance. Look to your right."},
+
+    {"from":"AN Spiral Stairs","to":"Rectory Elevator","direction":"Go through the glass doors and at the end of the hallway, on the right side you will found the elevator."},
+    {"from":"Rectory Elevator","to":"AN Spiral Stairs","direction":"As you get out of the elevator, turn left and go forward. After you get pass the glass doors, you will see the stairs."},
+
+    {"from":"Rectory Elevator","to":"Rectory Caffeteria","direction":"As you get out of the elevator, turn right and head to the bigger hallway. Turn left and in front of you is the caffeteria."},
+    {"from":"Rectory Caffeteria","to":"Rectory Elevator","direction":"Get out of the caffeteria and go forward for 15m. If you turn right you will find the elevator."},
+
+    {"from":"Entrance/Exit - AN building","to":"Pedestrian Cross","direction":"Go forward for 140m and the cross is on your right."},
+    {"from":"Pedestrian Cross","to":"Entrance/Exit - AN building","direction":"Go forward for 140m and AN building is the first building on the right side of the road."},
+
+    {"from":"Pedestrian Cross","to":"Campus Stairs (1)","direction":"Go forward without crossing it for 70m. "},
+    {"from":"Campus Stairs (1)","to":"Pedestrian Cross","direction":"Go forward for 70m. The cross is on your left."},
+
+    {"from":"Pedestrian Cross","to":"Campus Stairs (2)","direction":"Cross the road, turn to your left and continue forward. The stairs are 170m in this direction."},
+    {"from":"Campus Stairs (2)","to":"Pedestrian Cross","direction":"Go forward for 170m. The cross is on your right. You might need to cross the road."},
+
+    {"from":"Pedestrian Cross","to":"Entrance/Exit - EI building","direction":"If you keep the same orientation, you will get to the entrance of the building."},
+    {"from":"Entrance/Exit - EI building","to":"Pedestrian Cross","direction":"Keep going forward and you will see the cross."},
+
+    {"from":"Campus Stairs (1)","to":"Entrance/Exit - PRECIS building (1)","direction":"After climbing the stairs, go forward for 150m. The first building on your right is ED. The second one is PRECIS."},
+    {"from":"Entrance/Exit - PRECIS building (1)","to":"Campus Stairs (1)","direction":"After exiting the building, go slightly to your right and continue like this for 150m."},
+
+    {"from":"Campus Stairs (1)","to":"Backdoor Entrance/Exit - ED building","direction":"After climbing the stairs, go forward for 50m. The first building on your right is ED."},
+    {"from":"Backdoor Entrance/Exit - ED building","to":"Campus Stairs (1)","direction":"After exiting the building, go left and left once again to see the stairs. They are 50m away."},
+
+    {"from":"Campus Stairs (2)","to":"Entrance/Exit - ED/EC buildings","direction":"Go forward for 60m. On your right side is EC. On your left side is ED."},
+    {"from":"Entrance/Exit - ED/EC buildings","to":"Campus Stairs (2)","direction":"Go down the hill for 60m and you will see the stairs."},
+
+    {"from":"Entrance/Exit - ED/EC buildings","to":"EC Stairs (1)","direction":"After entering the building you will see the stairs on your right."},
+    {"from":"EC Stairs (1)","to":"Entrance/Exit - ED/EC buildings","direction":"It is the closest exit of the building."},
+
+    {"from":"Entrance/Exit - ED/EC buildings","to":"EC Stairs (2)","direction":"After entering the building, it's the second set of stairs that goes to the first floor."},
+    {"from":"EC Stairs (2)","to":"Entrance/Exit - ED/EC buildings","direction":"It is the closest exit of the building."},
+
+    {"from":"Entrance/Exit - ED/EC buildings","to":"Backdoor Entrance/Exit - ED building","direction":"After entering the building, go all the way to the end of the hallway."},
+    {"from":"Backdoor Entrance/Exit - ED building","to":"Entrance/Exit - ED/EC buildings","direction":"It is on the other end of the hallway. You should pass by the elevator and the stairs of the building."},
+
+    {"from":"Entrance/Exit - ED/EC buildings","to":"ED Elevator","direction":"After entering the building, go forward and you will see the elevator on the right side."},
+    {"from":"ED Elevator","to":"Entrance/Exit - ED/EC buildings","direction":"Just go straight forward until you see the exit."},
+
+    {"from":"Entrance/Exit - ED/EC buildings","to":"ED Stairs","direction":"After entering the building, go forward and you will see the stairs on the left side."},
+    {"from":"ED Stairs","to":"Entrance/Exit - ED/EC buildings","direction":"After you went down the stairs, the exit is to the right."},
+
+    {"from":"Entrance/Exit - ED/EC buildings","to":"Entrance/Exit - PRECIS building (1)","direction":"Cross the street and head to the building in front of you. It is 60m away."},
+    {"from":"Entrance/Exit - PRECIS building (1)","to":"Entrance/Exit - ED/EC buildings","direction":"Cross the street and head to the building in front of you. It is 60m away."},
+
+    {"from":"EC Stairs (1)","to":"EC105","direction":"Pass by the stairs, you will find your classroom on your left side."},
+    {"from":"EC105","to":"EC Stairs (1)","direction":"When you exit EC105, go to the right in order to get to the stairs."},
+
+    {"from":"EC Stairs (1)","to":"Entrance/Exit - EG building (2)","direction":"Pass by the stairs and turn right. If you continue through the glass doors you will get to EG building."},
+    {"from":"Entrance/Exit - EG building (1)","to":"EC Stairs (2)","direction":"Continue forward for 200m. You will see the stairs on your left."},
+
+    {"from":"EC Stairs (1)","to":"EC Caffeteria","direction":"Go up to the first floor and turn to the right twice. If you go forward, through the glass doors, you will find the caffeteria."},
+    {"from":"EC Caffeteria","to":"EC Stairs (1)","direction":"Go through the glass doors and you will see the stairs on your left."},
+
+    {"from":"EC Stairs (2)","to":"EC105","direction":"The class is on the right side as you go towards the exit."},
+    {"from":"EC105","to":"EC Stairs (2)","direction":"On your left, there are the stairs."},
+
+    {"from":"EC Stairs (2)","to":"EC004","direction":"Under the stairs and to the right, there is the class you are looking for."},
+    {"from":"EC004","to":"EC Stairs (2)","direction":"On your right, as you exit the class EC004."},
+
+    {"from":"EC Stairs (2)","to":"EC004","direction":"Under the stairs and to the right, there is the copy-store you are looking for."},
+    {"from":"EC004","to":"EC Stairs (2)","direction":"On your right, as you leave the copy-store."},
+
+    {"from":"EC Stairs (2)","to":"EC Caffeteria","direction":"Go upstairs and turn left on the hallway. Go through the glass doors to find the caffeteria."},
+    {"from":"EC Caffeteria","to":"EC Stairs (2)","direction":"On your right, and once again go to the right at the end of the hallway."},
+
+    {"from":"EC Caffeteria","to":"EG301","direction":"Pass by the caffeteria, go upstairs to the next floor and on the right you will find the EG301 room."},
+    {"from":"EG301","to":"EC Caffeteria","direction":"On your right, and once again go to the right at the end of the hallway."},
+    
+    {"from":"Backdoor Entrance/Exit - ED building","to":"EF008","direction":"Go all the way throygh the small hallway and at the end of it you will find EF008 room."},
+    {"from":"EF008","to":"Backdoor Entrance/Exit - ED building","direction":"At the other end of the hallway is the backdoor exit of the building."},
+
+    {"from":"ED Elevator","to":"ED020","direction":"The classroom is at the ground floor. As you look at the elevator, you should turn right and the first classroom on the right is what you are looking for."},
+    {"from":"ED020","to":"ED Elevator","direction":"As you are exiting the classroom, you should turn left and after the relaxing zone, on the right, there is the elevator."},
+
+    {"from":"ED Elevator","to":"ED302","direction":"You should go to the 3rd floor. Getting down from the elevator, go straigth forward, through the glass doors. The first classroom to the right is ED302."},
+    {"from":"ED302","to":"ED Elevator","direction":"As you are exiting the classroom, you should turn left and go forward for 10m. In front of you will be the elevator."},
+
+    {"from":"ED Stairs","to":"ED302","direction":"You should go to the 3rd floor. You should turn right and go straigth forward, through the glass doors. The first classroom to the right is ED302."},
+    {"from":"ED302","to":"ED Stairs","direction":"As you are exiting the classroom, you should turn left and left once again. In front of you will be the stairs."},
+
+    {"from":"Entrance/Exit - EG building (2)","to":"EG103a","direction":"Continue forward for __m. On your right you will see a staircase. Go downstaris and on your left is the EG103 room."},
+    {"from":"EG103a","to":"Entrance/Exit - EG building (2)","direction":"Continue forward for __m. On your right you will see a staircase. Go downstaris and on your left is the EG103 room."},
+
+    {"from":"Entrance/Exit - EG building (2)","to":"EG103b","direction":"Continue forward for __m. On your right you will see a staircase. Go downstaris and on your left is the EG103 room."},
+    {"from":"EG103b","to":"Entrance/Exit - EG building (2)","direction":"Continue forward for __m. On your right you will see a staircase. Go downstaris and on your left is the EG103 room."},
+    
+    {"from":"Entrance/Exit - EI building","to":"EI Stairs","direction":"After entering the building you will see the stairs on your left."},
+    {"from":"EI Stairs","to":"Entrance/Exit - EI building","direction":"After riching the groud floor, the exit is to the right."},
+
+    {"from":"EI Stairs","to":"Entrance/Exit - EG building (1)" ,"direction":"After riching the final floor, turn left and go forward until the end of the hallway. On your left is the entrance inside the EG building."},
+    {"from":"Entrance/Exit - EG building (1)","to":"EI Stairs","direction":"Turn right and go until the end of the hallway. You will find the stairs on your right."},
+
+    {"from":"Entrance/Exit - EG building (1)","to":"EG301","direction":"Go forward for ___m. I will complete this later on."},
+    {"from":"EG301","to":"Entrance/Exit - EG building (1)","direction":"Same here."},
+
+    {"from":"Entrance/Exit - EG building (1)","to":"EG103a","direction":"Go forward for __m, until the end of the hallway. On your left, there should be a staircase, go downstairs and on the left is EG103 room."},
+    {"from":"EG103a","to":"Entrance/Exit - EG building (1)","direction":"Go upstairs. Turn right at the hallway and go forward until the end of it."},
+    
+    {"from":"Entrance/Exit - EG building (1)","to":"EG103b","direction":"Go forward for __m, until the end of the hallway. On your left, there should be a staircase, go downstairs and on the left is EG103 room."},
+    {"from":"EG103b","to":"Entrance/Exit - EG building (1)","direction":"Go upstairs. Turn right at the hallway and go forward until the end of it."},
+    
+    {"from":"Entrance/Exit - PRECIS building (1)","to":"PR002","direction":"Go forward for 5m and turn left. On your left, after the bathrooms, there is the class you are looking for."},
+    {"from":"PR002","to":"Entrance/Exit - PRECIS building (1)","direction":"Go forward for 5m and turn right. It is the closest exit of the building."},
+
+    {"from":"Entrance/Exit - PRECIS building (1)","to":"PRECIS Elevator","direction":"Go towards the other exit of the building. If you turn left, you will find the elevators."},
+    {"from":"PRECIS Elevator","to":"Entrance/Exit - PRECIS building (1)","direction":"From the elevator, turn right twice and head forward to the exit."},
+
+    {"from":"PRECIS Elevator","to":"PR508","direction":"Take the elevator to the 5th floor. PR508 is right in from of the elevator."},
+    {"from":"PR508","to":"PRECIS Elevator","direction":"The elevator is just in front of the classroom."},
+
+    {"from":"PRECIS Elevator","to":"PRECIS Stairs","direction":"The staircase is right-sided the elevator."},
+    {"from":"PRECIS Elevator","to":"PRECIS Elevator","direction":"The elevator is right-sided the staircase."},
+
+    {"from":"PRECIS Elevator","to":"Entrance/Exit - PRECIS building (2)","direction":"Go towards the closest exit of the building."},
+    {"from":"Entrance/Exit - PRECIS building (2)","to":"PRECIS Elevator","direction":"The elevator (and the stairs) are 10m in front of you."},
+
+    {"from":"Entrance/Exit - PRECIS building (2)","to":"Campus Entrance - Iuliu Maniu (1)","direction":"Turn slightly to the left and head to the street. The entrance in the campus is 70m away. "},
+    {"from":"Campus Entrance - Iuliu Maniu (1)","to":"Entrance/Exit - PRECIS building (2)","direction":"Turn slightly to the right and head to the first building. The entrance in PRECIS building is 70m away."},
+
+    {"from":"Entrance/Exit - PRECIS building (2)","to":"Campus Entrance - Iuliu Maniu (2)","direction":"Turn slightly to the right and head to the street. The entrance in the campus is 280m away. "},
+    {"from":"Campus Entrance - Iuliu Maniu (2)","to":"Entrance/Exit - PRECIS building (2)","direction":"Turn to the left and head to the kast building on your left side. The entrance in PRECIS building is 280m away."}
+  ]
+}
